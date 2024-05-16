@@ -12,7 +12,8 @@ With a file(s) of your choice, demonstrate the following:
 ○ ~~Adding files to a branch~~
 ○ ~~Adding commits with meaningful messages~~
 
-![image](https://github.com/f-lane/CFG/assets/168937219/3e1c23a8-a46f-4371-888c-b06d99212a03)
+![image](https://github.com/f-lane/CFG/assets/168937219/6777da8c-2cca-46f2-adc0-7293517e07af)
+
 
 ○ ~~Opening a pull request~~
 ○ ~~Merging and deploying to main branch~~
