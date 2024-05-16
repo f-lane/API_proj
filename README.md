@@ -11,8 +11,8 @@ With a file(s) of your choice, demonstrate the following:
 ○ ~~Creating a branch~~
 ○ ~~Adding files to a branch~~
 ○ ~~Adding commits with meaningful messages~~
-
-![image](https://github.com/f-lane/CFG/assets/168937219/6777da8c-2cca-46f2-adc0-7293517e07af)
+○ ~~Pushing the file to the remote repo~~
+![image](https://github.com/f-lane/CFG/assets/168937219/886ee48b-a31c-48db-8f92-a9d36b1dad97)
 
 
 ○ ~~Opening a pull request~~
