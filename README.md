@@ -14,3 +14,7 @@ With a file(s) of your choice, demonstrate the following:
 
 ![image](https://github.com/f-lane/CFG/assets/168937219/3e1c23a8-a46f-4371-888c-b06d99212a03)
 
+○ ~~Opening a pull request~~
+○ ~~Merging and deploying to main branch~~
+
+![image](https://github.com/f-lane/CFG/assets/168937219/d8546e75-eda8-4d08-bd5c-f46d349e23e5)
