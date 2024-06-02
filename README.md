@@ -4,6 +4,9 @@
 I'll be using GitHub for my **CFG assignments** and building my portfolio.
 I'll be showing off my newly acquired skills, especially in *Python* and *SQL*. 
 
+**Assignment 1:** Please find it below.
+**Assignment 2:** Please find it in the 'Assignment_2' branch.
+
 ### Here is my first assignment: 
 With a file(s) of your choice, demonstrate the following:
 
