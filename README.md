@@ -2,6 +2,8 @@
 Create a console app that interacts with an API of your choice, gets some data out of it and
 does a meaningful transformation. 
 
+**I created a program that allows you to interrogate the UK Govt's 2021 census data; specifically, the population totals (inc. by sex) at Local Authority level.**
+
 You should:
 + Use boolean values and if..else statements to branch logic of your program **--> throughout**
 + Use a data structure like a list, dictionary, set or tuple to store values **--> values stored in list: la_data_to_print = []**
