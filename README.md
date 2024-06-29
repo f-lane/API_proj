@@ -1,6 +1,6 @@
 ## Design and implement a simple API as done in class.
 
-For this task, I created a scenario whereby a running club wanted to be able to submit members' race results to a database and then view all the results (including filtered by date). 
+For this task, I created a scenario whereby a running club wanted to be able to submit members' race results to a database and then view all the results (including filtered by date). **You can find the relevant files inside the '4th' directory.**
 
 In order to run the API, you will need to install the following foreign libraries: MySQL Connector, requests.
 You will need to create the database in mySQL and edit the config.py file to include your HOST, USER and PASSWORD details (further instructions included in the file notes).
@@ -8,7 +8,7 @@ You must first run the app.py file to establish a connection with the DB and the
 You should be given the option to input a new result, or, if not, to view results (including by date). 
 
 
-You should:8
+You should:
 + Implement 2 API endpoints with appropriate functionality **--> in the app.py file, endpoints include /results and /results/<date>.**
 + Implement one additional endpoint of your choice (can be POST or GET but with a different implementation) **--> /submit**
 + Implement client-side for each of the 3 API endpoints you have created. **--> see main.py**
