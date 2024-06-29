@@ -1,6 +1,6 @@
 ## Design and implement a simple API as done in class.
 
-For this task, I created a scenario whereby a running club wanted to be able to submit members' race results to a database and then view all the results or all the results from one date. 
+For this task, I created a scenario whereby a running club wanted to be able to submit members' race results to a database and then view all the results (including filtered by date). 
 
 In order to run the API, you will need to install the following foreign libraries: MySQL Connector, requests.
 You will need to create the database in mySQL and edit the config.py file to include your HOST, USER and PASSWORD details (further instructions included in the file notes).
